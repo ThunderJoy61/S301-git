@@ -2,8 +2,11 @@
 .env.*
 *.key
 credentials.json
-venv/
+.venv/
 __pycache__/
 node_modules/
 .DS_Store
 Thumbs.db
+.idea/
+.vscode/
+.pyc/
